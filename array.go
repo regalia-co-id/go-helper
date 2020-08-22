@@ -1,4 +1,4 @@
-package helpers
+package helper
 
 func FindArrayItem(slice []uint, val uint) (int, bool) {
 	for i, item := range slice {
